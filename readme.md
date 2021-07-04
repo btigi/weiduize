@@ -4,9 +4,10 @@ A command line utility to convert IAP/TBG files into weidu driven mods.
 
 ## Usage
 
+```
 weiduize filename.tbg
 weiduize filename.iap
-  
+```
 
 ## Download
 
