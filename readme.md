@@ -1,3 +1,7 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/bnv8kwtr92yvjlv0?svg=true)](https://ci.appveyor.com/project/igi/weiduize)
+
+---
+
 # weiduize
 
 A command line utility to convert IAP/TBG files into weidu driven mods.
